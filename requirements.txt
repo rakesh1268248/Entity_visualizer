@@ -1,9 +1,2 @@
-pymupdf
-python-docx
-python-pptx
-nltk
-rank_bm25
+spacy
 streamlit
-wordcloud
-matplotlib
-collections
